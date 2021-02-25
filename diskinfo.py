@@ -1,4 +1,4 @@
-# Show hard drives under Windows 10 and identify which disk the OS is booted on.
+# Show hard drives under Windows 10 and identify which disk the OS is booted up on.
 import subprocess, wmi
 
 def diskcount():
